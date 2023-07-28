@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Build output
+build/
+dist/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Compiled files
+*.js
+*.jsx
+*.json
+*.css
+*.map
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.swp
