@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "test": "react-scripts test",
-    "build": "react-scripts build"
+    "start": "react-scripts start"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
